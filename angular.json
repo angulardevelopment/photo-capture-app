@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "photo-capture"
+  "defaultProject": "photo-capture",
+  "cli": {
+    "analytics": false
+  }
 }
